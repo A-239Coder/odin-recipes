@@ -1,6 +1,6 @@
 # odin-recipes
 
-To practice my HTML knowledge, I am folowing The Odin Project, this is the first project creating a basic recipe website.
+To practice my HTML knowledge, I am following The Odin Project, this is the first project creating a basic recipe website.
 
 The project overview:
 - the website will consist of the main index page and then will link to further recipe pages
