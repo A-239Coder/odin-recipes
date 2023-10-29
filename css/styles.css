@@ -1,0 +1,22 @@
+*{
+    font-family: 'Verdena', sans-serif;
+}
+
+h1,
+.main-page {
+    text-align: center;
+    color: #000000;
+    font-size: 36px;
+}
+
+h1,
+.mac-cheese-title {
+    text-align: center;
+    color: #000000;
+    font-size: 36px;
+}
+
+img {
+    width: 200;
+    height: auto;
+}
